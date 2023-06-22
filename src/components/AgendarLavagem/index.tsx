@@ -5,7 +5,7 @@ const MarcarLavagem = () => {
         <C.Container>
             <C.Title> Marque seu horario</C.Title>
             <C.Button>
-                MARCAR HORARIO 
+                MARCAR HORÁRIO 
             </C.Button>
         </C.Container>
     )
