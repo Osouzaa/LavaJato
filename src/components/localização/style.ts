@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 const Title = styled.div`
   text-align: center;
-  color: #333;
+  color: #fff;
   font-size: 22px;
   margin-bottom: 10px;
 `;
