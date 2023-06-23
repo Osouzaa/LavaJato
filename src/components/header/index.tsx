@@ -1,4 +1,3 @@
-import DropDown from "../../img/drop.png";
 import * as C from "./style.ts";
 import Logo from "../../img/LogoLavaJato2.png";
 
@@ -10,9 +9,7 @@ const Header = () => {
           <C.P src={Logo} alt="" />
         </div>
         <div>
-          <C.ContentFrase>
-            Dê o cuidado que seu carro merece! 
-          </C.ContentFrase>
+          <C.ContentFrase>Dê o cuidado que seu carro merece!</C.ContentFrase>
         </div>
       </C.Container>
     </>
