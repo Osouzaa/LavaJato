@@ -1,5 +1,4 @@
 import MarcarLavagem from "./components/AgendarLavagem";
-import BarraLateral from "./components/barraLateral";
 import Carrossel from "./components/carrosel";
 import Footer from "./components/footer";
 import Header from "./components/header";
